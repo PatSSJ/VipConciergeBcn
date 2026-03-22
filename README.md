@@ -26,18 +26,6 @@ I provide a 24/7 "Single Point of Contact" for elite professionals arriving in B
 
 ---
 
-## Technical Stack (The Web & Blog)
-
-This repository contains a custom-built platform focused on **security** and **performance**. To ensure the highest level of data integrity for VIP clients, the backend follows strict development standards:
-
-* **Language:** PHP (Object-Oriented)
-* **Database:** Secure implementation using **PDO** (PHP Data Objects).
-* **Error Handling:** Robust `try-catch` blocks to prevent data leaks.
-* **Security:** Prevention of **Fatal Errors** to ensure 24/7 uptime.
-* **Architecture:** Clean code practices (Standard `if/else` brackets, no `endif` syntax).
-
----
-
 ## Target Engagements
 
 * **Mobile World Congress (MWC):** Full-spectrum logistics and executive support.
