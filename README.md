@@ -11,11 +11,11 @@ Managing business and life in a foreign city shouldn't be a bottleneck. This pro
 
 ---
 
-## 💎 The Value Proposition
+## The Value Proposition
 
 I provide a 24/7 "Single Point of Contact" for elite professionals arriving in Barcelona for congresses (MWC, Integrated Systems Europe), real estate investment, or digital scaling. My mission is to eliminate the logistical and administrative friction of operating in Spain.
 
-### 🧩 Core Service Pillars
+### Core Service Pillars
 
 | Role | Focus Area | Description |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ I provide a 24/7 "Single Point of Contact" for elite professionals arriving in B
 
 ---
 
-## 🛠️ Technical Stack (The Web & Blog)
+## Technical Stack (The Web & Blog)
 
 This repository contains a custom-built platform focused on **security** and **performance**. To ensure the highest level of data integrity for VIP clients, the backend follows strict development standards:
 
@@ -38,7 +38,7 @@ This repository contains a custom-built platform focused on **security** and **p
 
 ---
 
-## 📅 Target Engagements
+## Target Engagements
 
 * **Mobile World Congress (MWC):** Full-spectrum logistics and executive support.
 * **Digital Relocation:** Setting up operational bases for tech entrepreneurs.
@@ -47,7 +47,7 @@ This repository contains a custom-built platform focused on **security** and **p
 
 ---
 
-## ✉️ Contact & Inquiries
+## Contact & Inquiries
 
 *Currently accepting a limited number of private clients for the 2026 season.*
 
