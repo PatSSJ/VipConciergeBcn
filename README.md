@@ -7,37 +7,41 @@ Patricia San José · Barcelona Executive Concierge
 
 > **High-Touch Support for International Entrepreneurs & Business Travelers.**
 
-Managing business and life in a foreign city shouldn't be a bottleneck. This project hosts the digital ecosystem for a premium concierge service designed to handle the complexity of Barcelona’s business landscape, allowing you to focus entirely on your objectives.
+I provide a premium concierge and operational support service tailored for international entrepreneurs, founders, and remote business owners based in or relocating to Barcelona.
+
+### What I Do
+
+I handle the complexity of both **business operations** and **day-to-day logistics**, allowing you to focus on growth, strategy, and high-impact decisions.
+
+My services include:
+
+-  Business & Digital Operations Management  
+-  Administrative & Back-Office Support  
+-  Relocation & Local Setup Assistance  
+-  Vendor & Partner Coordination  
+-  Calendar, Travel & Lifestyle Management  
+-  Process Optimization & Automation  
+
+### Who This Is For
+
+- International entrepreneurs relocating to Barcelona  
+- Remote founders managing global teams  
+- Investors and executives needing local support  
+- Digital business owners seeking operational efficiency  
+
+### My Value
+
+I act as your **local strategic partner**, combining discretion, efficiency, and a deep understanding of both business and lifestyle needs.
+
+✔️ Save time and reduce operational friction  
+✔️ Access reliable local networks and solutions  
+✔️ Maintain focus on scaling your business  
+✔️ Enjoy a seamless experience in Barcelona  
+
+### Availability
+
+**24/7 support** — because business doesn’t stop, and neither do I.
 
 ---
 
-## The Value Proposition
-
-I provide a 24/7 "Single Point of Contact" for elite professionals arriving in Barcelona for congresses (MWC, Integrated Systems Europe), real estate investment, or digital scaling. My mission is to eliminate the logistical and administrative friction of operating in Spain.
-
-### Core Service Pillars
-
-| Role | Focus Area | Description |
-| :--- | :--- | :--- |
-| **01. Admin & Caregiver** | **Lifestyle Management** | Premium housing, private transport, healthcare coordination, and family office support. |
-| **02. Dedicated Dependent** | **Personal Proxy** | Acting as your local representative for bureaucratic hurdles, utilities, and private errands. |
-| **03. Business Ops (Registered)** | **Digital Systems** | Scalable business operations using PDO-based PHP systems, database management, and secure CRM workflows. |
-| **04. Temporary Access Specialist** | **Secure Logistics** | Managing time-sensitive credentials, limited-duration PINs, and secure entry for short-term projects. |
-
----
-
-## Target Engagements
-
-* **Mobile World Congress (MWC):** Full-spectrum logistics and executive support.
-* **Digital Relocation:** Setting up operational bases for tech entrepreneurs.
-* **Real Estate Scouting:** Handling local appointments and private viewings.
-* **Ad-hoc Crisis Management:** 24/7 availability for urgent business needs.
-
----
-
-## Contact & Inquiries
-
-*Currently accepting a limited number of private clients for the 2026 season.*
-
-**Location:** Barcelona, Spain (Available Globally for Digital Ops)
-**Availability:** 24/7 for Retainer Clients
+> *Helping International Entrepreneurs Handle Everything — So You Don’t Have To.*
